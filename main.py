@@ -149,7 +149,7 @@ def check_if_tie():
     else:
         return False
 
-#flip the player from X to O or O o X
+#flip the player from X to O or O o X.
 def flip_player():
 
      global current_player
